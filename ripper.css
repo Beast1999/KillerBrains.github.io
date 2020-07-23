@@ -1,0 +1,159 @@
+.n1{
+	float: left;
+	width: 50%;
+	margin-left: 650px;
+	text-decoration: underline;
+	color: #ff0000;
+}
+.i1{
+	float: left;
+	width: 15%;
+	height: auto;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.n2{
+	float: left;
+	width: 75%;
+	margin-left: 31px;
+	margin-top: 41px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.i3{
+	float: right;
+	width: 18%;
+	height: auto;
+	margin-right: 40px;
+	margin-top: 47px;
+}
+.n3{
+	float: right;
+	width: 75%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+	margin-right: 14px;
+	margin-top: 40px;
+}
+.i4{
+	float: left;
+	width: 20%;
+	height: 190px;
+	margin-top: 46px;
+	margin-left: 50px;
+}
+.n4{
+	float: left;
+	width: 75%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+	margin-top: 40px;
+	margin-left: 15px;
+	
+}
+.i5{
+	float: right;
+	width: 18%;
+	height: 200px;
+	margin-right: 32px;
+	margin-top: 48px;
+}
+.n5{
+	float: right;
+	width: 75%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+	margin-top: 40px;
+	margin-right: 15px;
+
+}
+.i2{
+	float: left;
+	width: 20%;
+	height: 300px;
+	margin-top: 46px;
+	margin-left: 50px;
+}
+.n6{
+	float: left;
+	width: 75%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 35px;
+	margin-top: 40px;
+	margin-left: 15px;
+}
+.n7{
+	float: left;
+	width: 75%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 35px;
+	margin-top: 30px;
+	margin-left: 15px;
+	border: 2px solid #fff;
+	padding-left: 3px;
+}
+.n8{
+	float: left;
+	width: 40%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin-top: 30px;
+	margin-left: 370px;
+}
+.ft{
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+    font-size: 17px;
+
+}
+.n8 a{
+	color: #ff0000;
+}
+@media(max-width: 550px){
+	.n1{
+		width: 100% !important;
+	}
+	.i1{
+		width: 100% !important;
+	}
+	.n2{
+		width: 100% !important;
+	}
+	.i2{
+		width: 100% !important;
+	}
+	.n3{
+		width: 100% !important;
+	}
+	.i3{
+		width: 100% !important;
+	}
+	.n4{
+		width: 100% !important;
+	}
+	.i4{
+		width: 100% !important;
+	}
+	.n5{
+		width: 100% !important;
+	}
+	.i5{
+		width: 100% !important;
+	}
+	.n6{
+		width: 100% !important;
+	}
+	.n7{
+		width: 100% !important;
+	}
+	.n8{
+		width: 100% !important;
+	}
+ }

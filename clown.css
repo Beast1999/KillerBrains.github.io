@@ -1,0 +1,175 @@
+.e1{
+	float: left;
+	width: 50%;
+	margin-left: 650px;
+	color: #ff0000;
+	text-decoration: underline;
+}
+.f1{
+	float: left;
+	width: 15%;
+	margin-top: 60px;
+	margin-left: 60px;
+}
+.e2{
+	float: left;
+	width: 72%;
+	margin-top: 50px;
+	margin-left: 100px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.f2{
+	float: right;
+	width: 15%;
+	margin-top: 60px;
+	margin-left: ;
+}
+.e3{
+	float: right;
+	width: 75%;
+	margin-top: 50px;
+	margin-right: 90px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.f3{
+	float: left;
+	width: 15%;
+	margin-top: 60px;
+	margin-left: 60px;
+}
+.e4{
+	float: left;
+	width: 72%;
+	margin-top: 50px;
+	margin-left: 90px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.f4{
+	float: right;
+	width: 15%;
+	margin-top: 60px;
+	margin-right: 120px;
+}
+.e5{
+	float: right;
+	width: 72%;
+	margin-top: 50px;
+	margin-right: 10px;
+	margin-left: 30px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.f5{
+	float: left;
+	width: 15%;
+	margin-top: 60px;
+	margin-left: 70px;
+}
+.e6{
+	float: left;
+	width: 75%;
+	margin-top: 55px;
+	margin-left: 10px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.f6{
+	float: right;
+	width: 15%;
+	margin-top: 90px;
+	margin-right: 85px;
+}
+.e7{
+	float: right;
+	width: 75%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+	margin-top: 40px;
+
+}
+.e8{
+	float: left;
+	width: 70%;
+	margin-top: 50px;
+	margin-left: 65px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+	border: 2px solid #fff;
+	padding-left: 5px;
+}
+.e9{
+	float: left;
+	width: 50%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin-top: 50px;
+	margin-left: 65px;
+}
+.e9 a{
+	color: #ff0000;
+
+}
+.ft2{
+	float: left;
+	width: 100%;
+	margin-top: 40px;
+    font-size: 17px;
+}
+@media(max-width: 550px){
+	.e1{
+		width: 100% !important;
+	}
+	.f1{
+		width: 100% !important;
+	}
+	.e2{
+		width: 100% !important;
+	}
+	.f2{
+		width: 100% !important;
+	}
+	.e3{
+		width: 100% !important;
+	}
+	.f3{
+		width: 100% !important;
+	}
+	.e4{
+		width: 100% !important;
+	}
+	.f4{
+		width: 100% !important;
+	}
+	.e5{
+		width: 100% !important;
+	}
+	.f5{
+		width: 100% !important;
+	}
+	.e6{
+		width: 100% !important;
+	}
+	.f6{
+		width: 100% !important;
+	}
+	.e7{
+		width: 100% !important;
+	}
+	.e8{
+		width: 100% !important;
+	}
+	.e9{
+		width: 100% !important;
+	}
+	
+}

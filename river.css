@@ -1,0 +1,182 @@
+.a1{
+	float: left;
+	width: 50%;
+	margin-left: 600px;
+	color: #ff0000;
+	text-decoration: underline;
+}
+.b1{
+	float: left;
+	width: 19%;
+	height: auto;
+	margin-left: 45px;
+	margin-top: 50px;
+}
+.a2{
+	float: left;
+	width: 75%;
+	margin-left: 31px;
+	margin-top: 41px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.b2{
+	float: right;
+	width: 16%;
+	height: 200px;
+	margin-right: 45px;
+	margin-top: 42px;
+
+}
+.a3{
+	float: right;
+	width: 73%;
+	margin-right: -50px;
+	margin-top: 38px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.b3{
+	float: left;
+	width: 16%;
+	height: auto;
+	margin-left: 45px;
+	margin-top: 50px;
+}
+.a4{
+	float: left;
+	width: 75%;
+	margin-left: 31px;
+	margin-top: 41px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.b4{
+	float: right;
+	width: 18%;
+	height: auto;
+	margin-right: 45px;
+	margin-top: 100px;
+}
+.a5{
+	float: left;
+	width: 70%;
+	margin-left: 48px;
+	margin-top: -210px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+
+}
+.b5{
+	float: left;
+	width: 16%;
+	height: auto;
+	margin-left: -1060px;
+	margin-top: 230px;
+}
+.a6{
+	float: left;
+	width: 75%;
+	margin-left: 330px;
+	margin-top: 35px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+
+}
+.b6{
+	float: right;
+	width: 15%;
+	margin-top: 50px;
+	margin-right: 80px;
+}
+.a7{
+	float: right;
+	width: 75%;
+	margin-top: 50px;
+	margin-right: 20px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+
+}
+.a8{
+	float: left;
+	width: 70%;
+	margin-top: 40px;
+	margin-left: 50px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+	border: 2px solid #fff;
+	padding-left: 3px;
+}
+.a9{
+	float: left;
+	width: 50%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin-top: 50px;
+	margin-left: 50px;
+
+}
+.ft{
+	float: left;
+	width: 100%;
+	margin-top: 40px;
+    font-size: 17px;
+}
+.a9 a{
+	color: #ff0000;
+}
+@media(max-width: 550px){
+	.a1{
+		width: 100% !important;
+	}
+	.b1{
+		width: 100% !important;
+	}
+	.a2{
+		width: 100% !important;
+	}
+	.b2{
+		width: 100% !important;
+	}
+	.a3{
+		width: 100% !important;
+	}
+	.b3{
+		width: 100% !important;
+	}
+	.a4{
+		width: 100% !important;
+	}
+	.b4{
+		width: 100% !important;
+	}
+	.a5{
+		width: 100% !important;
+	}
+	.b5{
+		width: 100% !important;
+	}
+	.a6{
+		width: 100% !important;
+	}
+	.b6{
+		width: 100% !important;
+	}
+	.a7{
+		width: 100% !important;
+	}
+	.a8{
+		width: 100% !important;
+	}
+	.a9{
+		width: 100% !important;
+	}
+}

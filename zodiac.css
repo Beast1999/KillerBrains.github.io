@@ -1,0 +1,162 @@
+.g1{
+	float: left;
+	width: 50%;
+	color: #ff0000;
+	margin-left: 620px;
+	text-decoration: underline;
+	margin-top: 30px;
+}
+.h1{
+	float: left;
+	width: 15%;
+	margin-top: 60px;
+	margin-left: 50px;
+}
+.g2{
+	float: left;
+	width: 75%;
+	margin-top: 50px;
+	margin-left: 100px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.h2{
+	float: right;
+	width: 15%;
+	margin-top: 50px;
+	margin-right: 40px;
+}
+.g3{
+	float: right;
+	width: 75%;
+	margin-top: 50px;
+	margin-right: 60px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.h3{
+	float: left;
+	width: 15%;
+	margin-top: 60px;
+	margin-left: 50px;
+}
+.g4{
+	float: left;
+	width: 70%;
+	margin-top: 50px;
+	margin-left: 100px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.z1{
+	color: #ff0000;
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+.h4{
+	float: right;
+	width: 15%;
+	margin-top: 60px;
+	margin-right: 120px;
+}
+.g5{
+	float: right;
+	width: 70%;
+	margin-top: 50px;
+	margin-right: 50px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.h5{
+	float: left;
+	width: 15%;
+	margin-top: 90px;
+	margin-left: 60px;
+}
+.g6{
+	float: left;
+	width: 70%;
+	margin-top: 50px;
+	margin-left: 100px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+}
+.g7{
+	float: left;
+	width: 70%;
+	margin-top: 50px;
+	margin-left: 95px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	line-height: 31px;
+	border: 2px solid #fff;
+	padding-left: 5px;
+}
+.g8{
+	float: left;
+	width: 50%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin-top: 50px;
+	margin-left: 65px;
+}
+.g8 a{
+	color: #ff0000;
+}
+.ft3{
+	float: left;
+	width: 100%;
+	margin-top: 40px;
+    font-size: 17px;
+}
+@media(max-width: 550px){
+	.g1{
+		width: 100% !important;
+	}
+	.h1{
+		width: 100% !important;
+	}
+	.g2{
+		width: 100% !important;
+	}
+	.h2{
+		width: 100% !important;
+	}
+	.g3{
+		width: 100% !important;
+	}
+	.h3{
+		width: 100% !important;
+	}
+	.g4{
+		width: 100% !important;
+	}
+	.h4{
+		width: 100% !important;
+	}
+	.g5{
+		width: 100% !important;
+	}
+	.h5{
+		width: 100% !important;
+	}
+	.g6{
+		width: 100% !important;
+	}
+	.g7{
+		width: 100% !important;
+	}
+	.g8{
+		width: 100% !important;
+	}
+	.z1{
+		width: 100% !important;
+	}
+}

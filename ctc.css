@@ -1,0 +1,44 @@
+.social-icon{
+	height: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.social-icon a{
+	text-align: center;
+	margin-top: 100px;
+	letter-spacing: 50px;
+	margin-left: 20px;
+}
+.social-icon a i{
+	transition: all 0.3s linear;
+}
+.social-icon a:hover i{
+	transform: scale(1.4);
+}
+
+
+.sm1{
+	width: 50%;
+	margin-top: 80px;
+	margin-left: 370px;
+	font-weight: bold;
+	color: #ff0000;
+	font-size: 25px;
+	text-align: center;
+	display: flex;
+}
+.ft7{
+	float: left;
+	width: 100%;
+	margin-top: 310px;
+}
+@media(max-width: 550px){
+	.social-icon{
+		width: 100% !important;
+	}
+	.sm1{
+		width: 100% !important;
+	}
+
+}
